@@ -1,0 +1,9 @@
+.ms-h{
+    min-height: 25px;
+}
+
+.ms-h div{
+    height: 25px;
+    border: 2px solid red;
+    border-radius: 2px;
+}
